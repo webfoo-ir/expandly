@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1118 830" style="enable-background:new 0 0 1118 830;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;stroke:#33CC99;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#33CC99;}
+	.st3{fill:#6633CC;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="1118" height="830"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<polygon class="st1" points="529.2,564.9 265,564.9 265,300.7 		"/>
+		<polygon class="st1" points="793.3,564.9 529.2,564.9 529.2,300.7 		"/>
+		<polygon class="st1" points="529.2,829 265,829 265,564.9 		"/>
+		<polygon class="st1" points="793.3,829 529.2,829 529.2,564.9 		"/>
+		<rect x="116" y="1" class="st1" width="149" height="149"/>
+		<rect x="414" y="1" class="st1" width="149" height="149"/>
+		<rect x="265" y="150" class="st1" width="149" height="149"/>
+		<circle class="st2" cx="962.9" cy="556.4" r="155.1"/>
+		<circle class="st2" cx="962.9" cy="243.9" r="155.1"/>
+		<path class="st3" d="M963.1,400c-220.9,0-400-179.1-400-400s179.1-400,400-400V400z"/>
+		<rect x="730.5" y="2.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 210.1201 522.686)" class="st2" width="11" height="11"/>
+		
+			<rect x="785.4" y="2.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 226.2218 561.5081)" class="st2" width="11" height="11"/>
+		<rect x="840.3" y="2.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 242.2495 600.367)" class="st2" width="11" height="11"/>
+		
+			<rect x="895.3" y="2.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 258.3537 639.2524)" class="st2" width="11" height="11"/>
+		
+			<rect x="950.1" y="2.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 274.4225 678.0104)" class="st2" width="11" height="11"/>
+		
+			<rect x="730.5" y="43.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 180.9151 534.7861)" class="st2" width="11" height="11"/>
+		
+			<rect x="785.4" y="43.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 196.9429 573.6451)" class="st2" width="11" height="11"/>
+		
+			<rect x="840.3" y="43.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 212.9706 612.5041)" class="st2" width="11" height="11"/>
+		
+			<rect x="895.3" y="43.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 229.1458 651.3594)" class="st2" width="11" height="11"/>
+		
+			<rect x="950.2" y="43.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 245.2146 690.1175)" class="st2" width="11" height="11"/>
+		<rect x="730.5" y="85" transform="matrix(0.7071 -0.7071 0.7071 0.7071 151.5869 546.9172)" class="st2" width="11" height="11"/>
+		<rect x="785.4" y="85" transform="matrix(0.7071 -0.7071 0.7071 0.7071 167.6857 585.7463)" class="st2" width="11" height="11"/>
+		
+			<rect x="840.4" y="85.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 183.7406 624.6693)" class="st2" width="11" height="11"/>
+		<rect x="895.3" y="85" transform="matrix(0.7071 -0.7071 0.7071 0.7071 199.8887 663.4607)" class="st2" width="11" height="11"/>
+		
+			<rect x="950.2" y="84.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 215.9874 702.2897)" class="st2" width="11" height="11"/>
+		<path class="st3" d="M265,585c134.5,0.3,243.4,109.6,243.1,244.1S398.5,1072.5,264,1072.2S20.6,962.6,20.9,828.1
+			C21.2,693.6,130.5,584.7,265,585 M265,565C118.7,565,0,683.6,0,830s118.7,265,265,265s265-118.6,265-265S411.4,565,265,565z"/>
+	</g>
+</g>
+</svg>
